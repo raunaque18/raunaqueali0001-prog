@@ -12,7 +12,7 @@
 - 🎓 Student
 - 🌱 Currently learning **Python, JavaScript & React**
 - 💻 Interested in Web Development
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: raunaqueali0001@gmail.com
 
 ---
 
