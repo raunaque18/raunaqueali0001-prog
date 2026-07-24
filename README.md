@@ -27,8 +27,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raunaqueali0001-prog&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunaqueali0001-prog&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raunaque18&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunaque18&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -36,7 +36,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=raunaqueali0001-prog&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=raunaque18&theme=tokyonight"/>
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raunaqueali0001-prog&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raunaque18&theme=tokyo-night"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=raunaqueali0001-prog&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=raunaque18&theme=tokyonight&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/raunaqueali0001-prog"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://github.com/raunaque18"><img src="https://skillicons.dev/icons?i=github"/></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:raunaqueali0001@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
@@ -68,7 +68,7 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=raunaqueali0001-prog&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=raunaque18&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
