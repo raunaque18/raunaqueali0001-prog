@@ -11,7 +11,7 @@
 
 - 🎓 Student
 - 🌱 Currently learning **Python, JavaScript & React**
-- 💻 Interested in Web Development
+- 💻 Interested in AI-ML
 - 📫 Reach me: raunaqueali0001@gmail.com
 
 ---
